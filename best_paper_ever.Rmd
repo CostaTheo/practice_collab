@@ -1,0 +1,15 @@
+---
+title: "A Document"
+author: "Collaborative"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Title
+
+Document to practice collaboration.

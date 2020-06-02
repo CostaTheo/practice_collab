@@ -24,3 +24,7 @@ Here's some things.
 
 #Acknowledgements
  Tom did all the work really 
+ 
+ 
+#Funding
+Thanks for all the monies 

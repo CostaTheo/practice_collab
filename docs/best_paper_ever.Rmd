@@ -19,7 +19,7 @@ Document to practice collaboration.
 
 # Discussion
 
-Here's some things.
+Here's some stuff.
 
 
 #Acknowledgements

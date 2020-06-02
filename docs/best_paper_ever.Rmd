@@ -1,6 +1,6 @@
 ---
 title: "A Document"
-author: "Collaborative"
+author: "Collaborative Madness"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   pdf_document: default
@@ -21,6 +21,12 @@ Document to practice collaboration.
 
 Here's some things.
 
+# References:
 
-# Acknowledgements !!!!!!!!!!!
- I want to emphasise how great Tom really is.
+<<<<<<< HEAD
+Umbers 2020 Austral Entomology
+
+=======
+#Acknowledgements
+ Tom did all the work really 
+>>>>>>> 4bd4c144622748f7692773bd85a7ea5d6b35e89e

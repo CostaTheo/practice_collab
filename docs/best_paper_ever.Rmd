@@ -19,9 +19,13 @@ Document to practice collaboration.
 
 # Discussion
 
+<<<<<<< HEAD
+We scienced real good. 
+=======
 Here's some things.
 
 # References:
+>>>>>>> c4b851d90bf1b4a545d112de1015ba504c9a10cf
 
 <<<<<<< HEAD
 Umbers 2020 Austral Entomology

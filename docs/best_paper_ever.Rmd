@@ -15,3 +15,11 @@ knitr::opts_chunk$set(echo = TRUE)
 Document to practice collaboration.
 
 ## Here's some new stuff.
+
+
+# Discussion
+
+Here's some things.
+
+
+
